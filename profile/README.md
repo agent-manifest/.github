@@ -1,8 +1,17 @@
+![Status](https://img.shields.io/badge/status-published-1a1917?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.0-1a1917?style=flat-square)
+![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey?style=flat-square)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18833956.svg)](https://doi.org/10.5281/zenodo.18833956)
 
 # Agent Manifest
 
 A declarative specification for AI agent identity, authority, and operational boundaries — making agent identity, declared authority, and operational boundaries legible before execution.
+
+**Start here**
+
+- **Visitors / reviewers** — [agent-manifest-spec.org](https://agent-manifest-spec.org)
+- **Developers / builders** — [agent-manifest](https://github.com/agent-manifest/agent-manifest) (specification, schema, 5-minute integration)
+- **Researchers / conceptual readers** — [∈ Principle](https://github.com/agent-manifest/e-principle) (philosophical foundation)
 
 ---
 
@@ -89,3 +98,17 @@ Specification and documentation: [CC BY 4.0](https://creativecommons.org/license
 Infrastructure code: MIT
 
 Individual repositories may carry their own license terms.
+
+---
+
+**Part of the [Agent Manifest](https://agent-manifest-spec.org) ecosystem**
+
+[Spec](https://github.com/agent-manifest/agent-manifest) ·
+[Registry](https://github.com/agent-manifest/agent-manifest-registry) ·
+[Dataset](https://github.com/agent-manifest/agent-manifest-dataset) ·
+[Ambassador](https://github.com/agent-manifest/agent-manifest-ambassador) ·
+[Diplomat](https://github.com/agent-manifest/agent-manifest-diplomat) ·
+[Boundary Handshake](https://github.com/agent-manifest/boundary-handshake) ·
+[∈ Principle](https://github.com/agent-manifest/e-principle)
+
+CC BY 4.0 · Hernán Alfredo Capucci · [ORCID 0009-0008-7216-3032](https://orcid.org/0009-0008-7216-3032)
